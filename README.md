@@ -1,4 +1,3 @@
-# IoT-Hybrid-MultiParty-Encryption
 # IoT Multi-Party Encryption – Hybrid RSA and ElGamal
 
 This repository contains **research code** and a **graphical interface** that demonstrates a **collaborative multi-party encryption** system for IoT environments. The system combines **RSA** and **ElGamal** cryptographic techniques, with a “nested” or **stacked** encryption approach involving multiple IoT nodes (source, intermediates, and destination). The graphical user interface (GUI) simulates a small IoT network, encrypts a user-supplied message, and then performs the FILO (First-In-Last-Out) decryption.
@@ -10,7 +9,6 @@ This repository contains **research code** and a **graphical interface** that de
 1. [Architecture & Core Features](#architecture--core-features)  
 2. [Getting Started](#getting-started)  
 3. [Usage](#usage)  
-4. [License](#license)
 
 ---
 
@@ -61,7 +59,3 @@ This repository contains **research code** and a **graphical interface** that de
    - The right panel logs initialization, key building, encryption, and final decryption.  
 
 ---
-
-## License
-
-This project is shared under an open-source license for academic and research purposes. You are free to **clone, modify,** and **distribute** as needed, provided that **proper citation** is included and **no warranty** is expressed or implied.
